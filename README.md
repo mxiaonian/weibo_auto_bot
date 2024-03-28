@@ -28,3 +28,15 @@ python3 main.py
 或者点击main.py文件，使用dbug模式运行程序。推荐使用pycharm进行调试。我没有尝试过vscode，不知道是否也可以。
 
 这个项目的本意是为了工作流自动化，实现微博自动点赞评论指定条数，指定评论内容，自动私信发送，爬取指定博主微博，定时发送。然而仅完成了点赞评论和私信发送，便调离工作岗位，遂开源出来。项目为自学python3个月后写的，新手，能力有限，望各位大佬轻喷。
+项目截图
+![image](https://github.com/mxiaonian/weibo_auto_bot/assets/41322284/6ba9ed23-8d12-439f-9e1e-25c8fa124384)
+自动点赞评论
+![image](https://github.com/mxiaonian/weibo_auto_bot/assets/41322284/2fb150a7-8535-4254-8f9a-996b7858ce43)
+互动用户配置
+![image](https://github.com/mxiaonian/weibo_auto_bot/assets/41322284/1e2bb7fd-cefd-4376-8575-2fa203d59787)
+自定义评论发送
+![image](https://github.com/mxiaonian/weibo_auto_bot/assets/41322284/7990cfa6-54e3-4a28-a926-d8ec65d4bbee)
+自定义私信发送
+
+
+
